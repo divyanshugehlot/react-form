@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url(./assets/bg.png);
+}
+.set-postion{
+  margin-top: 132px;
+
+}
+.form-style{
+  background-color: black;
+  opacity: 0.8;
+}
+.form-style:hover{
+  background-color: black;
+  opacity: 1;
+}
